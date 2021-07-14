@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS petclinic;
+CREATE DATABASE IF NOT EXISTS dev_petclinicdb;
 
-ALTER DATABASE petclinic
+ALTER DATABASE dev_petclinicdb
   DEFAULT CHARACTER SET utf8
   DEFAULT COLLATE utf8_general_ci;
 
